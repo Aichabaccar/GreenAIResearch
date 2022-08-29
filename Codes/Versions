@@ -1,0 +1,7 @@
+python 3.8.10
+keras 2.9.0
+matplotlib 3.5.3
+energyus 0.0.14
+scikit-learn 1.1.2
+tensorflow 2.9.1
+numpy 1.23.1
